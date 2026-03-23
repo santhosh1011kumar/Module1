@@ -25,13 +25,3 @@ print(b)
 ## Result
 Thus,the Python program that prints the characters `'T'` and `'a'` using character literals is created successfully.
 acter literals.
-
-## 🧠 Algorithm
-1. Print the character `'T'`.
-2. Print the character `'a'`.
-
-## 🧾 Program
-
-## Output
-
-## Result
